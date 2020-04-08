@@ -14,7 +14,7 @@ python调用示例
 
     url = "http://localhost:3000"
 
-    payload = "url=http:///www.baidu.com"
+    payload = "url=http://yangkeduo.com" //爬取页面的url
     headers = {
       'Connection': 'keep-alive',
       'Accept': 'application/json, text/javascript, */*; q=0.01',
